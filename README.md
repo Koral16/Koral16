@@ -2,7 +2,7 @@
 #### 👨‍💼 About me:
 - 👨‍💻 I'm 16 years old Java Developer
 - 💰 coding Bukkit and BungeeCord plugins
-- 🛠️ Love Hackintoshes and iOS jailbreaking
+- 🛠️ Love jailbreaking
 
 #### 📨 Contact:
 [<img src="https://img.shields.io/badge/koral%239147-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
