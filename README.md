@@ -1,6 +1,6 @@
 
 #### 👨‍💼 About me:
-- 👨‍💻 I'm 16 years old Java Developer
+- 👨‍💻 I'm 16 years old Js, Css, Html and Java Developer
 - 💰 coding Bukkit and BungeeCord plugins
 - 🛠️ Love jailbreaking
 
@@ -25,7 +25,6 @@
 <summary>
   More stuff about me
 </summary>
-
 <br >
 
 #### 📈 My Github Stats:
