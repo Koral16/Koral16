@@ -32,5 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=johnkarol&show_icons=true&theme=radical&line_height=24&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkarol&theme=radical&layout=compact" />
   
-  <img src="https://camo.githubusercontent.com/80e512a62ca9c4d68e27b3544aee53e8e947120d58ba6a6805f0fabf3a2ab1a9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d696b6967616c267468656d653d7261646963616c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/80e512a62ca9c4d68e27b3544aee53e8e947120d58ba6a6805f0fabf3a2ab1a9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d696b6967616c267468656d653d7261646963616c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkarol&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 </div>
