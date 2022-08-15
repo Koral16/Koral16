@@ -15,6 +15,7 @@
 [<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/)
 
 [<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
+
 ---
 
 #### 🛠️ Tools:
