@@ -21,9 +21,6 @@
 [<img src="https://img.shields.io/badge/intellij_idea%20-%23007396.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />](https://www.jetbrains.com/idea/)
 [<img src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
 
-<details>
-<br >
-
 #### 📈 My Github Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnkarol&show_icons=true&theme=radical&line_height=24&count_private=true" />
