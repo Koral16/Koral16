@@ -29,7 +29,10 @@
 
 #### 📈 My Github Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnkarol&show_icons=true&theme=radical&line_height=24&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkarol&theme=radical&layout=compact" />
+#### 📈 My Github Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikigal&show_icons=true&theme=radical&line_height=24&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&theme=radical&layout=compact" />
+</div>
   
 </div>
