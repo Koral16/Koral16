@@ -22,9 +22,6 @@
 [<img src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
 
 <details>
-<summary>
-  More stuff about me
-</summary>
 <br >
 
 #### 📈 My Github Stats:
