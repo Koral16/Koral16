@@ -5,7 +5,7 @@
 - 🛠️ Love jailbreaking
 
 #### 📨 Contact:
-[<img src="https://img.shields.io/badge/John_Carlos%2359147-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
+[<img src="https://img.shields.io/badge/John_Carlos%239147-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
 
 ---
 
